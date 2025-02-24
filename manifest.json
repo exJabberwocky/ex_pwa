@@ -1,7 +1,7 @@
 { 
-  "name": "ex_library",
+  "name": "ex_library: онлайн-библиотека",
   "short_name": "ex_library",
-  "start_url": "/",
+  "start_url": "https://ex-library.tilda.ws/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#000000",
@@ -19,13 +19,13 @@
   ],
   "screenshots": [
     {
-      "src": "/screenshot-desktop.png",
+      "src": "https://exjabberwocky.github.io/ex_pwa/screenshot-desktop.png",
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide"
     },
     {
-      "src": "/screenshot-mobile.png",
+      "src": "https://exjabberwocky.github.io/ex_pwa/screenshot-mobile.png",
       "sizes": "720x1280",
       "type": "image/png"
     }
