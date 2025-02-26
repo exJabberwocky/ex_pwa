@@ -1,4 +1,4 @@
-const CACHE_NAME = "ex-library-cache-v2"; // Обновил версию кеша
+const CACHE_NAME = "ex-library-cache-v2";
 const urlsToCache = [
     "/",
     "/aando"
