@@ -1,6 +1,7 @@
 { 
   "name": "ex_library: онлайн-библиотека",
   "short_name": "ex_library",
+  "description": "Онлайн-библиотека для комфортного чтения книг в любом месте и в любое время.",
   "start_url": "https://ex-library.tilda.ws/",
   "display": "standalone",
   "background_color": "#1B1C1E",
