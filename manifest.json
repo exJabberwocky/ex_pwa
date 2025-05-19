@@ -21,15 +21,52 @@
   ],
   "screenshots": [
     {
-      "src": "https://exjabberwocky.github.io/ex_pwa/screenshot-desktop.png",
+      "src": "https://exjabberwocky.github.io/ex_pwa/screenshot-desktop-1.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },    
+	{
+      "src": "https://exjabberwocky.github.io/ex_pwa/screenshot-desktop-2.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },    
+	{
+      "src": "https://exjabberwocky.github.io/ex_pwa/screenshot-desktop-3.png",
+      "sizes": "1280x720",
+      "type": "image/png",
+      "form_factor": "wide"
+    },    
+	{
+      "src": "https://exjabberwocky.github.io/ex_pwa/screenshot-desktop-4.png",
       "sizes": "1280x720",
       "type": "image/png",
       "form_factor": "wide"
     },
     {
-      "src": "https://exjabberwocky.github.io/ex_pwa/1.png",
+      "src": "https://exjabberwocky.github.io/ex_pwa/screenshot-mobile-1.png",
       "sizes": "720x1280",
-      "type": "image/png"
+      "type": "image/png",
+	  "form_factor": "narrow"
+    },    
+	{
+      "src": "https://exjabberwocky.github.io/ex_pwa/screenshot-mobile-2.png",
+      "sizes": "720x1280",
+      "type": "image/png",
+	  "form_factor": "narrow"
+    },    
+	{
+      "src": "https://exjabberwocky.github.io/ex_pwa/screenshot-mobile-3.png",
+      "sizes": "720x1280",
+      "type": "image/png",
+	  "form_factor": "narrow"
+    },    
+	{
+      "src": "https://exjabberwocky.github.io/ex_pwa/screenshot-mobile-4.png",
+      "sizes": "720x1280",
+      "type": "image/png",
+	  "form_factor": "narrow"
     }
   ]
 }
